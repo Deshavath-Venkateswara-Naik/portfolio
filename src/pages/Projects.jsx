@@ -75,7 +75,7 @@ function Projects() {
               imgPath={portfolioImg}
               title="Portfolio Website"
               description="Personal portfolio website built using React, React Bootstrap, and animations. Showcases projects, contact, and resume."
-              ghLink="https://github.com/Deshavath-Venkateswara-Naik"
+              ghLink="https://github.com/Deshavath-Venkateswara-Naik/portfolio"
               demoLink="https://your-portfolio-link.netlify.app" // Replace with actual
             />
           </Col>
